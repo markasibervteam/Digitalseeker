@@ -16,7 +16,7 @@ Tools OSINT untuk mencari username di berbagai platform online dan memeriksa apa
 ### Fitur Utama:
 
 • 1.Global Info-Stealer Check  Mengecek database kebocoran data untuk username tertentu.
-2. 
+
 • 2.Social Media & Platform Scanner – Mencari username di puluhan platform: Instagram, Twitter, GitHub, Reddit, YouTube, dan banyak lagi.
 
 • 3.Hasil Tersimpan – Semua URL yang ditemukan disimpan otomatis ke file {username}.txt.
@@ -30,12 +30,19 @@ Tools OSINT untuk mencari username di berbagai platform online dan memeriksa apa
 
 ### cara install di termux 
 
-pkg update && pkg upgrade -y
-pkg install git -y
-pkg install python -y
-git clone https://github.com/markasibervteam/Digitalseeker
-cd 
-python Digitalseeker.py
+• pkg update && pkg upgrade -y
+
+• pkg install git -y
+
+• pkg install python -y
+
+• git clone https://github.com/markasibervteam/Digitalseeker
+
+## cara menjalankan 
+
+• cd Digitalseeker
+
+• python Digitalseeker.py
 
 <p align="center">
   <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" />

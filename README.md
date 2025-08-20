@@ -36,7 +36,7 @@ Tools OSINT untuk mencari username di berbagai platform online dan memeriksa apa
 
 • pkg install python -y
 
-• git clone https://github.com/markasibervteam/Digitalseeker
+• git clone https://github.com/markasibervteam/Digitalseeker.git
 
 ## cara menjalankan 
 

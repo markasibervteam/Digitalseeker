@@ -44,6 +44,10 @@ Tools OSINT untuk mencari username di berbagai platform online dan memeriksa apa
 
 • python Digitalseeker.py
 
+#### ⚠️ Disclaimer
+harap gunakan tools dengan bijak , kami tidak akan bertanggung jawab jika di salah gunakan. 
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" />
   <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />
